@@ -35,7 +35,16 @@ export function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between h-15">
           {/* Logo */}
-      
+              <div className="flex items-center gap-3">
+ <div className="flex items-center gap-3">
+  <img 
+    src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW77KgcVgR-ESCadIWyQ2JuAqCDskr3djN1kUHxhkY1RIpm7-t" 
+    alt="شعار المنصة" 
+    className="w-15 h-14" 
+    style={{ objectFit: "contain" }}
+  />
+</div>
+</div>
 
           {/* Desktop Nav */}
           <nav className="hidden lg:flex items-center gap-1">
@@ -75,16 +84,7 @@ export function Header() {
             {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
           </button>
 
-            <div className="flex items-center gap-3">
- <div className="flex items-center gap-3">
-  <img 
-    src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW77KgcVgR-ESCadIWyQ2JuAqCDskr3djN1kUHxhkY1RIpm7-t" 
-    alt="شعار المنصة" 
-    className="w-15 h-14" 
-    style={{ objectFit: "contain" }}
-  />
-</div>
-</div>
+    
         </div>
 
        
