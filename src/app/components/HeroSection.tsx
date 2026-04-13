@@ -4,13 +4,13 @@ import { ChevronLeft, ChevronRight, GraduationCap, Globe, Star } from "lucide-re
 const heroSlides = [
   {
     image: "https://www.mie-study.net/assets/greatwall-B4uz9E7-.webp",
-    headline: "زات التعليمية - بوابتك للمنح والدراسة بالخارج",
+    headline: " د/ يسرا التعليمية - بوابتك للمنح والدراسة بالخارج",
     subheadline: "نساعدك على الوصول لأفضل الجامعات التركية والعالمية مع خطط تعليمية مخصصة واستشارات احترافية.",
   },
   {
     image: "https://www.mie-study.net/assets/shanghai-BqJbeaKu.webp",
     headline: "انضم لمجتمع الطلاب الناجحين",
-    subheadline: "مع زات التعليمية، أكثر من 5000 طالب وثّقوا مسيرتهم الأكاديمية وحصلوا على منح دراسية كاملة.",
+    subheadline: "معنا التعليمية، أكثر من 5000 طالب وثّقوا مسيرتهم الأكاديمية وحصلوا على منح دراسية كاملة.",
   },
   {
     image: "https://www.mie-study.net/assets/beijing-BSqiENDG.webp",

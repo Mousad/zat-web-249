@@ -36,14 +36,7 @@ export function Header() {
         <div className="flex items-center justify-between h-15">
           {/* Logo */}
               <div className="flex items-center gap-3">
- <div className="flex items-center gap-3">
-  <img 
-    src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW77KgcVgR-ESCadIWyQ2JuAqCDskr3djN1kUHxhkY1RIpm7-t" 
-    alt="شعار المنصة" 
-    className="w-15 h-14" 
-    style={{ objectFit: "contain" }}
-  />
-</div>
+              <h1 className="text-[#0e2575]">Dr<span className="text-[#056d05]">.YUSRA</span></h1>
 </div>
 
           {/* Desktop Nav */}

@@ -80,16 +80,16 @@ export function AboutSection() {
 
   <h2 className="text-3xl lg:text-5xl font-black text-gray-900 mb-6 leading-tight">
     عن مؤسسة {" "}
-    <span style={{ color: "#0d2b5e" }}>ذات التعليمية</span>
+    <span style={{ color: "#0d2b5e" }}>د/ يسرا التعليمية</span>
   </h2>
 
   <p className="text-gray-600 text-lg leading-relaxed mb-6">
-    مؤسسة ذات التعليمية هي جهة متخصصة في تقديم الخدمات التعليمية والاستشارات الأكاديمية للطلاب الراغبين في الدراسة داخل وخارج البلاد.
+    مؤسسة د/ يسرا التعليمية هي جهة متخصصة في تقديم الخدمات التعليمية والاستشارات الأكاديمية للطلاب الراغبين في الدراسة داخل وخارج البلاد.
     نساعد الطلاب في اختيار التخصصات المناسبة والتقديم على الجامعات وتأمين المنح الدراسية بأفضل الفرص المتاحة.
   </p>
 
   <p className="text-gray-600 leading-relaxed mb-8">
-    نقدم خدمات متكاملة تشمل الاستشارات التعليمية، التقديم الجامعي، استخراج الشهادات والتصديقات الرسمية،
+    نقدم خدمات متكاملة تشمل الاستشارات التعليمية، التقديم الجامعي،   والتصديقات الرسمية،
     مع متابعة دقيقة لكل خطوة لضمان تحقيق أهدافك الأكاديمية بسهولة وثقة.
     نسعى دائماً لتسهيل رحلتك التعليمية وفتح آفاق جديدة لمستقبلك.
   </p>
@@ -101,7 +101,7 @@ export function AboutSection() {
           <div className="flex-1 relative">
   <div className="relative rounded-3xl overflow-hidden shadow-2xl">
     <img
-      src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW77KgcVgR-ESCadIWyQ2JuAqCDskr3djN1kUHxhkY1RIpm7-t"
+      src="https://i.pinimg.com/736x/f2/ea/85/f2ea85c969aa9e1c7322d8e265c2674b.jpg"
       alt="استشارة أكاديمية"
       className="w-full h-80 object-cover"
     />

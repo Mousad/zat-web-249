@@ -106,12 +106,12 @@ export function StatsSection() {
 
   {/* العنوان */}
   <h1 className="text-3xl md:text-5xl font-black mb-6 text-[#0d2b5e]">
-    مؤسسة ذات  التعليمية
+    مؤسسة دكتورة يسرا  التعليمية
   </h1>
 
   {/* الوصف */}
  <p className="text-gray-600 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed mb-12">
-  مؤسسة ذات التعليمية تقدم مجموعة متكاملة من الخدمات التعليمية التي تساعد الطلاب على تحقيق أهدافهم الأكاديمية.
+  مؤسسة دكتورة يسرا التعليمية تقدم مجموعة متكاملة من الخدمات التعليمية التي تساعد الطلاب على تحقيق أهدافهم الأكاديمية.
   نحن متخصصون في توفير <span className="font-bold text-black">المنح الدراسية</span>، 
  
  
@@ -159,25 +159,7 @@ export function StatsSection() {
   </div>
 
   {/* الكارت 3 (في النص تحت) */}
-  <div className="col-span-2 flex justify-center">
-    <div className="relative group rounded-2xl overflow-hidden shadow-lg cursor-pointer w-full md:w-1/2">
-      <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOgBqKfXJZn7v4THQZznui1tYH3Oqulu6Oiuv4Yc5KWb1cvur"
-        alt="Provincial Scholarship"
-        className="w-full h-64 object-cover"
-      />
-      <div className="absolute inset-0 bg-black/20 group-hover:bg-black/20 transition"></div>
-
-      <div className="absolute inset-0 flex flex-col justify-end p-6 text-white">
-        <h4 className="text-3xl font-bold mb-2 text-[#9a1710]">
-         استخراج شهادات
-        </h4>
-        <p className="text-sm mb-4 opacity-0 group-hover:opacity-100 transition">
-          Competitive scholarships with generous benefits.
-        </p>
-      </div>
-    </div>
-  </div>
+  
 
 </div>
 </section>
