@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight, GraduationCap, Globe, Star } from "lucide-re
 const heroSlides = [
   {
     image: "https://www.mie-study.net/assets/greatwall-B4uz9E7-.webp",
-    headline: " د/ يسرا التعليمية - بوابتك للمنح والدراسة بالخارج",
+    headline: " ذات  التعليمية - بوابتك للمنح والدراسة بالخارج",
     subheadline: "نساعدك على الوصول لأفضل الجامعات التركية والعالمية مع خطط تعليمية مخصصة واستشارات احترافية.",
   },
   {

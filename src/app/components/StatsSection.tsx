@@ -106,12 +106,12 @@ export function StatsSection() {
 
   {/* العنوان */}
   <h1 className="text-3xl md:text-5xl font-black mb-6 text-[#0d2b5e]">
-    مؤسسة دكتورة يسرا  التعليمية
+    مؤسسة  <span className="text-[#f59e0b]">ذات</span>  التعليمية
   </h1>
 
   {/* الوصف */}
  <p className="text-gray-600 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed mb-12">
-  مؤسسة دكتورة يسرا التعليمية تقدم مجموعة متكاملة من الخدمات التعليمية التي تساعد الطلاب على تحقيق أهدافهم الأكاديمية.
+  مؤسسة  <span className="text-[#f59e0b]">ذات</span> التعليمية تقدم مجموعة متكاملة من الخدمات التعليمية التي تساعد الطلاب على تحقيق أهدافهم الأكاديمية.
   نحن متخصصون في توفير <span className="font-bold text-black">المنح الدراسية</span>، 
  
  

@@ -36,7 +36,8 @@ export function Header() {
         <div className="flex items-center justify-between h-15">
           {/* Logo */}
               <div className="flex items-center gap-3">
-              <h1 className="text-[#0e2575]">Dr<span className="text-[#056d05]">.YUSRA</span></h1>
+              <h1 className="text-[#0e2575]"> ذات  
+<span className="text-[#f59e0b]">ZAT</span></h1>
 </div>
 
           {/* Desktop Nav */}

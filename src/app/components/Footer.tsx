@@ -21,7 +21,8 @@ export function Footer() {
 
     {/* about */}
     <div className="space-y-4 text-center md:text-right">
-                    <h1 className="text-[#fffbf7]">Dr<span className="text-[#fffbf7]">.YUSRA</span></h1>
+                   <h1 className="text-[#1a1819]"> ذات  
+<span className="text-[#f59e0b]">ZAT</span></h1>
 
       {/* newsletter */}
     <div className="text-center md:text-right space-y-4">
@@ -91,7 +92,7 @@ export function Footer() {
 
   {/* bottom */}
   <div className="border-t border-gray-600 mt-10 pt-4 text-center text-gray-400 text-sm">
-    © {new Date().getFullYear()} د/ يسرا — جميع الحقوق محفوظة
+    © {new Date().getFullYear()} ذات  — جميع الحقوق محفوظة
   </div>
 </footer>
     
